@@ -53,7 +53,6 @@ Click below to open the project in Google Colab:
 - `sonar_data.csv` – The dataset used for training and testing (downloaded from UCI repository)
 - `rock_vs_mine_logistic_regression.ipynb` – Main Jupyter Notebook with the complete code and visualizations
 - `README.md` – Project overview and instructions
-- `requirements.txt` – List of required Python libraries
 
 ---
 
@@ -71,5 +70,6 @@ Click below to open the project in Google Colab:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/rock-vs-mine-logistic-regression.git
-   cd rock-vs-mine-logistic-regression
+   git clone https://github.com/Aditya-cyber007/rockmine-prediction.git
+   cd rockmine-prediction
+
